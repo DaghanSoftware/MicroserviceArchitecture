@@ -1,0 +1,7 @@
+\* Services *\
+
+Catalog API
+http http://localhost:5250
+https https://localhost:7218;http://localhost:5250
+IIS https://localhost:44391/swagger
+
